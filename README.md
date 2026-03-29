@@ -86,7 +86,7 @@ napt/
 
 **Tarun Malepati**
 MS Data Science, Indiana University
-[LinkedIn](https://linkedin.com/in/tarun-malepati) · [GitHub](https://github.com/tmalepat)
+[LinkedIn](https://linkedin.com/in/tarun-malepati) · [GitHub](https://github.com/TarunMalepati99)
 
 ---
 
