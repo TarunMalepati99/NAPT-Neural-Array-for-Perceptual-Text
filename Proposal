@@ -1,1 +1,29 @@
-
+Bionic Eye Systems: Comprehensive Technical & Clinical Overview
+Introduction
+A bionic eye (visual prosthesis) is a neuroprosthetic system designed to restore partial visual perception by converting visual information into electrical signals that stimulate the visual pathway.
+Biological Vision Pipeline
+Light → Retina (rods & cones) → Retinal ganglion cells → Optic nerve → Visual cortex (V1). Signals are encoded as discrete action potentials using rate coding.
+Neural Encoding Principles
+Visual intensity is encoded as pulse frequency, not amplitude. Prosthetic systems convert image intensity into pulse trains that mimic biological firing patterns.
+Stimulation Targets
+Retina (epiretinal, subretinal, suprachoroidal), Optic nerve (experimental), Visual cortex (V1).
+Australian Bionic Eye Projects
+1. Suprachoroidal Retinal Prosthesis (Bionic Vision Technologies)
+2. Gennaris Cortical Prosthesis (Monash Vision Group)
+System Pipeline
+Camera → Visual Processing Unit (edge detection, contrast enhancement, downsampling) → Electrode stimulation → Phosphenes.
+Why Optic Nerve Stimulation Is Difficult
+Loss of spatial selectivity, axonal cross-talk, encoding mismatch, limited plasticity.
+Cortical Stimulation Challenges
+Resolution bottleneck, retinotopic variability, phosphene instability, invasiveness.
+Current Steering
+Virtual electrode creation using differential current to improve resolution.
+Future Directions
+AI-based encoding, optical cortical stimulation, predictive neural writing.
+Key Research Papers & Resources
+•	Humayun et al., 'Visual perception elicited by electrical stimulation of retina', Science, 1996.
+•	Zrenner et al., 'Subretinal electronic chips allow blind patients to read letters', Proc. R. Soc. B, 2011.
+•	Ayton et al., 'First-in-human trial of suprachoroidal retinal prosthesis', NPJ Digital Medicine, 2020.
+•	Fernandez et al., 'Visual cortex stimulation for bionic vision', Journal of Neural Engineering, 2021.
+•	Monash Vision Group – Gennaris Project: https://www.monash.edu/bioniceye
+•	Psychology Today – Neuralink and Vision: https://www.psychologytoday.com/us/blog/the-digital-self/202409/redefining-vision-neuralink-and-the-future-of-perception
