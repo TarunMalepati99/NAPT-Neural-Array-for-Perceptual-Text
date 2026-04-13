@@ -3,7 +3,7 @@
 > An assistive vision system that converts scene text into neural stimulation patterns for visually impaired users.
 
 ---
-
+  
 ## Overview
 
 NAPT is a research project exploring an end-to-end pipeline that:
